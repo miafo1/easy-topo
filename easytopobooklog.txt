@@ -1,0 +1,246 @@
+---------------------
+Transaction started at: 2024-10-15 07:09:14
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 07:09:14
+---------------------
+Transaction started at: 2024-10-15 07:09:14
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 07:09:15
+---------------------
+Transaction started at: 2024-10-15 07:50:03
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 07:50:03
+---------------------
+Transaction started at: 2024-10-15 08:00:05
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:00:05
+---------------------
+Transaction started at: 2024-10-15 08:00:05
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:00:05
+---------------------
+Transaction started at: 2024-10-15 08:26:10
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:26:10
+---------------------
+Transaction started at: 2024-10-15 08:26:55
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:26:55
+---------------------
+Transaction started at: 2024-10-15 08:26:59
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:26:59
+---------------------
+Transaction started at: 2024-10-15 08:28:51
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:28:51
+---------------------
+Transaction started at: 2024-10-15 08:29:35
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Transaction ended at: 2024-10-15 08:29:35
+---------------------
+Transaction started at: 2024-10-15 17:37:58
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 17:39:57
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e8ccd8d4e4
+Transaction ended at: 2024-10-15 17:39:57
+---------------------
+Transaction started at: 2024-10-15 17:41:00
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e8d0c97c55
+Transaction ended at: 2024-10-15 17:41:00
+---------------------
+Transaction started at: 2024-10-15 17:41:03
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e8d0f172bd
+Transaction ended at: 2024-10-15 17:41:03
+---------------------
+Transaction started at: 2024-10-15 17:47:46
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e8ea27efaf
+Transaction ended at: 2024-10-15 17:47:46
+---------------------
+Transaction started at: 2024-10-15 18:10:06
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e93de7e8cc
+Fetching land title for item_id: 13
+Transaction ended at: 2024-10-15 18:10:06
+---------------------
+Transaction started at: 2024-10-15 18:10:06
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e93deafd97
+Fetching land title for item_id: 13
+Transaction ended at: 2024-10-15 18:10:06
+---------------------
+Transaction started at: 2024-10-15 18:14:07
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Error fetching land title for item_id: 14
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e94cf845b8
+Fetching land title for item_id: 14
+Transaction ended at: 2024-10-15 18:14:07
+---------------------
+Transaction started at: 2024-10-15 18:55:08
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Error fetching land title for item_id: 14
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e9e6c8c9b1
+Fetching land title for item_id: 14
+Transaction ended at: 2024-10-15 18:55:08
+---------------------
+Transaction started at: 2024-10-15 18:55:23
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Error fetching land title for item_id: 14
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e9e7b178eb
+Fetching land title for item_id: 14
+Transaction ended at: 2024-10-15 18:55:23
+---------------------
+Transaction started at: 2024-10-15 18:55:26
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 13
+Error fetching land title for item_id: 14
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e9e7eb4a86
+Fetching land title for item_id: 14
+Transaction ended at: 2024-10-15 18:55:26
+---------------------
+Transaction started at: 2024-10-15 18:57:36
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 17
+Error fetching land title for item_id: 18
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670e9f0039f07
+Fetching land title for item_id: 18
+Transaction ended at: 2024-10-15 18:57:36
+---------------------
+Transaction started at: 2024-10-15 19:01:31
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 19:01:31
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 19:01:31
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 19:01:31
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 19:03:59
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 19:05:08
+This payment is recognized by Monetbil!
+Transaction completed successfully for user: olomo vic, ID: 22
+---------------------
+Transaction started at: 2024-10-15 19:55:41
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670eac9d22367
+Fetching land title for item_id: 
+Transaction ended at: 2024-10-15 19:55:41
+---------------------
+Transaction started at: 2024-10-15 19:56:02
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670eacb2d5c59
+Fetching land title for item_id: 
+Transaction ended at: 2024-10-15 19:56:02
+---------------------
+Transaction started at: 2024-10-15 19:59:46
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670ead92da9a7
+Fetching land title for item_id: 
+Transaction ended at: 2024-10-15 19:59:46
+---------------------
+Transaction started at: 2024-10-15 19:59:48
+This payment is recognized by Monetbil!
+Error fetching land title for item_id: 
+Transaction inserted successfully
+Lands reserved: 
+Transaction reference: TXN-670ead9401259
+Fetching land title for item_id: 
+Transaction ended at: 2024-10-15 19:59:48
+---------------------
+Transaction started at: 2024-10-15 20:22:07
+This payment is recognized by Monetbil!
+---------------------
+Transaction started at: 2024-10-15 20:26:34
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: Title 1955, B44
+Transaction reference: TXN-670eb3dab5a62
+Transaction ended at: 2024-10-15 20:26:34
+---------------------
+Transaction started at: 2024-10-15 21:37:34
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: Title 1955, B44
+Transaction reference: TXN-670ec47e94e49
+Transaction ended at: 2024-10-15 21:37:34
+---------------------
+Transaction started at: 2024-10-15 21:44:10
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: Title 1955, B44
+Transaction reference: TXN-670ec60b15ad0
+Transaction ended at: 2024-10-15 21:44:11
+---------------------
+Transaction started at: 2024-10-21 16:21:52
+Payment not recognized by DOHONE
+Transaction ended at: 2024-10-21 16:21:52
+---------------------
+Transaction started at: 2024-10-21 16:22:37
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: Title 1955, B44
+Transaction reference: TXN-671663ad9be55
+Transaction ended at: 2024-10-21 16:22:37
+---------------------
+Transaction started at: 2024-10-21 23:19:33
+This payment is recognized by Monetbil!
+Transaction inserted successfully
+Lands reserved: Agricultural Land, Commercial Plot
+Transaction reference: TXN-6716c56617572
+Transaction ended at: 2024-10-21 23:19:34
